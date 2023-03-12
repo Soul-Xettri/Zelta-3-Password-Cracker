@@ -1,0 +1,16 @@
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\adssa.exe
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\adssa.deps.json
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\adssa.runtimeconfig.json
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\adssa.runtimeconfig.dev.json
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\adssa.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\ref\adssa.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\bin\Debug\net5.0\adssa.pdb
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.csprojAssemblyReference.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.AssemblyInfoInputs.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.AssemblyInfo.cs
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.csproj.CoreCompileInputs.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\ref\adssa.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.pdb
+C:\Users\Soul\Downloads\repos\Zelta sample 3\adssa\obj\Debug\net5.0\adssa.genruntimeconfig.cache

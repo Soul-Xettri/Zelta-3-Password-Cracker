@@ -1,0 +1,76 @@
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.exe.config
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.exe
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.pdb
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.xml
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbprojAssemblyReference.cache
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Login.resources
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Resources.resources
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.GenerateResource.cache
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CoreCompileInputs.cache
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CopyComplete
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.exe
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.xml
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.pdb
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Zelta.resources
+C:\Users\SOUL\source\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.About.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.exe.config
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.exe
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.pdb
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.xml
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.About.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.login.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Resources.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Zelta.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.GenerateResource.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CoreCompileInputs.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CopyComplete
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.exe
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.xml
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.pdb
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\SautinSoft.Document.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\bin\Debug\SautinSoft.Document.xml
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.AssemblyReference.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.help.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.firstloadingscreen.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.exe.config
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.exe
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.pdb
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\Zelta.xml
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\SautinSoft.Document.dll
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\bin\Debug\SautinSoft.Document.xml
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.AssemblyReference.cache
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.About.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.firstloadingscreen.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.help.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.login.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Resources.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.Zelta.resources
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.GenerateResource.cache
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CoreCompileInputs.cache
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.exe
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.xml
+C:\Users\Soul\Documents\repos\Zelta sample 3\Zelta\obj\Debug\Zelta.pdb
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\Zelta.exe.config
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\Zelta.exe
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\Zelta.pdb
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\Zelta.xml
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\SautinSoft.Document.dll
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\bin\Debug\SautinSoft.Document.xml
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.AssemblyReference.cache
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.About.resources
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.firstloadingscreen.resources
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.help.resources
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.login.resources
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.Resources.resources
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.Zelta.resources
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.GenerateResource.cache
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CoreCompileInputs.cache
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.vbproj.CopyComplete
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.exe
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.xml
+C:\Users\Soul\Documents\2nd project pw cracker visual studio\Zelta sample 3\Zelta\obj\Debug\Zelta.pdb

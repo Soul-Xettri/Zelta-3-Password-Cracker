@@ -1,0 +1,18 @@
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.csprojAssemblyReference.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute_force.Form1.resources
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.csproj.GenerateResource.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.AssemblyInfoInputs.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.AssemblyInfo.cs
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.csproj.CoreCompileInputs.cache
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\brute force.exe
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\brute force.deps.json
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\brute force.runtimeconfig.json
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\brute force.runtimeconfig.dev.json
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\brute force.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\ref\brute force.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\bin\Debug\net5.0-windows\brute force.pdb
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\ref\brute force.dll
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.pdb
+C:\Users\Soul\Downloads\repos\Zelta sample 3\brute force\obj\Debug\net5.0-windows\brute force.genruntimeconfig.cache
